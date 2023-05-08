@@ -1,0 +1,10 @@
+propertyid,stno,stname,owneroccupied,numbedrooms,numbathrooms,areasqft
+100001000,10,Kranti Road,Y,3,1,1000
+100002000,17,Bhagat Singh Road,N,3,1.5,nil 
+100003000,,Bhagat Singh Road,N,n/a,1,850
+100004000,20,Azad Marg,12,1,NaN,700
+,23,Azad Marg,Y,3,2,1600
+100006000,20,Azad Marg,Y,NA,1,800
+100007000,NA,Shivaji Road,,2,Surya,950
+100008000,13,Netaji Marg,Y,1,1,
+100009000,15,Netaji Marg,Y,na,2,1800
